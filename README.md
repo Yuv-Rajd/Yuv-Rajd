@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Yvaraja D
+- 🌱 I’m currently learning computer science
