@@ -1,2 +1,4 @@
 - 👋 Hi, I’m Yvaraja D
 - 🌱 I’m currently learning computer science
+- 🐍 interested learning python 
+- 🎨 artist,creative mind
