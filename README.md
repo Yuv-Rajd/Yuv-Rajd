@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yvaraja D
-- 🌱 I’m currently learning computer science
-- 🤑 bit knowledge in metaverse ,crypto and nft
-- 🐍 love python 
+- 🌱 Computer Science and Engineering
+- 🐍 love python
 - 🎨 artist,creative mind
+- 🤑 bit knowledge in metaverse ,crypto and nft 
 - <a href="https://www.linkedin.com/in/yuvaraja-d/" >LinkedIn</a> || <a href="https://twitter.com/Yuvaraj_D_" > Twitter </a>
