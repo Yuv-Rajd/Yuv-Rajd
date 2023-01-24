@@ -3,4 +3,4 @@
 - 🤑 bit knowledge in metaverse ,crypto and nft
 - 🐍 love python 
 - 🎨 artist,creative mind
-- <a href="https://www.linkedin.com/in/yuvaraja-d/" >LinkedIn</a>
+- <a href="https://www.linkedin.com/in/yuvaraja-d/" >LinkedIn</a> || <a href="https://twitter.com/Yuvaraj_D_" > Twitter </a>
