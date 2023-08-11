@@ -35,7 +35,6 @@
 
 
 <div class="container">
-    <!-- Internship Card -->
     <div class="card">
         <h2>Internship</h2>
         <p>
@@ -62,7 +61,7 @@
         <!-- Repeat similar structure for other projects -->
 
         <!-- Include more project details here -->
-    </div>
+    </div>  </div>
 
   
     <div class="card">
