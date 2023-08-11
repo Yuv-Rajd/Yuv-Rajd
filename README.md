@@ -48,6 +48,14 @@
             <li>Crop Recommendation System using Weather API and ML</li>
         </ul>
     </div>
+    <div class="card">
+        <h2>Hobbies</h2>
+        <p>
+            Reading Books, Drawing, Painting
+            <br>
+            Travelling, Photography
+        </p>
+    </div>
 
 
     <div class="card">
