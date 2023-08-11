@@ -49,6 +49,34 @@
         </ul>
     </div>
     <div class="card">
+        <h2>Skills</h2>
+        <p>
+            Python, JAVA, C, PHP
+            <br>
+            MERN: ReactJS, NodeJS, Express JS, MongoDB
+            <br>
+            MongoDB, SQL, RESTful API
+            <br>
+            AJAX, jQuery
+            <br>
+            Flask, Machine Learning,
+            <br>
+            VS Code, Jupyter Notebook, PyCharm
+            <br>
+            Material UI, Bootstrap, CSS, HTML
+            <br>
+            Git, GitHub, Xamp, Postman
+        </p>
+    </div>
+    <div class="card">
+        <h2>Hobbies</h2>
+        <p>
+            Reading Books, Drawing, Painting
+            <br>
+            Travelling, Photography
+        </p>
+    </div>
+ <div class="card">
         <h2>Hobbies</h2>
         <p>
             Reading Books, Drawing, Painting
@@ -57,6 +85,7 @@
         </p>
     </div>
 
+    
 
     <div class="card">
         <h2>Personal Projects</h2>
