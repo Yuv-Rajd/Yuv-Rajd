@@ -32,7 +32,7 @@
 - 💻 MERN:NodeJS, ReactJS,EpressJS, MongoDB<br>
 - 🎨 artist,creative mind<br>
 - <a href="https://www.linkedin.com/in/yuvaraja-d/" >LinkedIn</a> || <a href="https://twitter.com/Yuvaraj_D_" > Twitter </a>
-<!-- ... Previous code ... -->
+
 
 <div class="container">
     <!-- Internship Card -->
@@ -50,7 +50,7 @@
         </ul>
     </div>
 
-    <!-- Projects Card -->
+
     <div class="card">
         <h2>Personal Projects</h2>
         <h3>PERSONAL NOTES APP | SIMPLE BLOG APP (MERN)</h3>
@@ -64,7 +64,7 @@
         <!-- Include more project details here -->
     </div>
 
-    <!-- Participations Card -->
+  
     <div class="card">
         <h2>Participations</h2>
         <p>
@@ -74,7 +74,7 @@
         </p>
     </div>
 
-    <!-- Skills Card -->
+   
     <div class="card">
         <h2>Skills</h2>
         <p>
@@ -96,7 +96,7 @@
         </p>
     </div>
 
-    <!-- Hobbies Card -->
+   
     <div class="card">
         <h2>Hobbies</h2>
         <p>
@@ -107,7 +107,7 @@
     </div>
 </div>
 
-<!-- ... Closing tags ... -->
+
 
 </body>
 </html>
