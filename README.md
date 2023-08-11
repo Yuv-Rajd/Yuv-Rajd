@@ -51,9 +51,9 @@
      <div class="card">
         <h2>Participations</h2>
         <p>
-            Workshop on OOPs (Abstract Classes) for juniors | Jul 12, 2022 | <a href="certificate-link">Certificate</a>
+            Workshop on OOPs (Abstract Classes) for juniors | Jul 12, 2022 |
             <br>
-            Coding Master Competition | Nov 9, 2022 | <a href="certificate-link">Certificate</a>
+            Coding Master Competition | Nov 9, 2022 |
         </p>
     </div>
     <div class="card">
