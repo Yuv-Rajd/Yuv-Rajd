@@ -93,35 +93,5 @@
         </p>
     </div>
 
-    
-
-    <div class="card">
-        <h2>Personal Projects</h2>
-        <h3>PERSONAL NOTES APP | SIMPLE BLOG APP (MERN)</h3>
-        <p>
-            MERN projects to store individual user's notes with JWT authentication. Only authenticated users can view their notes.
-            <br>
-            Tools: Backend: NodeJS, Express JS, Frontend: React JS, DB: MongoDB (v.2) MySQL (V.1), Material UI, RESTful API
-        </p>
-        <!-- Repeat similar structure for other projects -->
-
-        <!-- Include more project details here -->
-    </div>  </div>
-
-  
-    <div class="card">
-        <h2>Participations</h2>
-        <p>
-            Workshop on OOPs (Abstract Classes) for juniors | Jul 12, 2022 | <a href="certificate-link">Certificate</a>
-            <br>
-            Coding Master Competition | Nov 9, 2022 | <a href="certificate-link">Certificate</a>
-        </p>
-    </div>
-
-   
-
-
-
-
 </body>
 </html>
