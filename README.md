@@ -8,25 +8,7 @@
     <div class="header">
         <h1>Yuvaraja D - Web Developer</h1>
     </div>
-    <div class="container">
-        <div class="card">
-            <h2>About Me</h2>
-            <p>
-                A self-motivated, self-taught web developer with a quest to work and learn in a professional environment.
-            </p>
-        </div>
-        <div class="card">
-            <h2>Education</h2>
-            <p>
-                Bachelor of Engineering in Computer Science | UBDT College of Engineering | CGPA: 8.42
-            </p>
-            <p>
-                PCMC | MDR PU Science College | Percentage: 89.9%
-            </p>
-        </div>
-        <!-- Add more cards for Internship, Projects, Participations, Skills, Hobbies, etc. -->
-    </div>
-   <hr>
+
 - 🌱 Computer Science and Engineering <br>
 - 🐍 love python<br>
 - 💻 MERN:NodeJS, ReactJS,EpressJS, MongoDB<br>
@@ -34,28 +16,7 @@
 - <a href="https://www.linkedin.com/in/yuvaraja-d/" >LinkedIn</a> || <a href="https://twitter.com/Yuvaraj_D_" > Twitter </a>
 
 
-<div class="container">
-    <div class="card">
-        <h2>Internship</h2>
-        <p>
-            SUMUKHA Infotech, Davangere | Sep 22 – Oct 22
-            <br>
-            Learned machine learning using Python, including pandas, NumPy, sci-kit learn, TensorFlow, and Flask framework. Completed three projects:
-        </p>
-        <ul>
-            <li>Student Attendance System using Face Recognition (OpenCV)</li>
-            <li>Skin Cancer Detection using CNN</li>
-            <li>Crop Recommendation System using Weather API and ML</li>
-        </ul>
-    </div>
-     <div class="card">
-        <h2>Participations</h2>
-        <p>
-            Workshop on OOPs (Abstract Classes) for juniors | Jul 12, 2022 |
-            <br>
-            Coding Master Competition | Nov 9, 2022 |
-        </p>
-    </div>
+
     <div class="card">
         <h2>Skills</h2>
         <p>
