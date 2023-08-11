@@ -27,5 +27,11 @@
         </div>
         <!-- Add more cards for Internship, Projects, Participations, Skills, Hobbies, etc. -->
     </div>
+- 🌱 Computer Science and Engineering
+- 🐍 love python
+- 💻 MERN:NodeJS, ReactJS,EpressJS, MongoDB
+- 🎨 artist,creative mind
+- <a href="https://www.linkedin.com/in/yuvaraja-d/" >LinkedIn</a> || <a href="https://twitter.com/Yuvaraj_D_" > Twitter </a>
+
 </body>
 </html>
