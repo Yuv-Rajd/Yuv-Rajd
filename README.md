@@ -84,14 +84,7 @@
             Travelling, Photography
         </p>
     </div>
- <div class="card">
-        <h2>Hobbies</h2>
-        <p>
-            Reading Books, Drawing, Painting
-            <br>
-            Travelling, Photography
-        </p>
-    </div>
+
 
 </body>
 </html>
