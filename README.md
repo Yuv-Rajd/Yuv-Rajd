@@ -14,7 +14,6 @@
             <p>
                 A self-motivated, self-taught web developer with a quest to work and learn in a professional environment.
             </p>
-            <p>Contact: +91 8431226186 | yuvaraj3303@gmail.com | <a href="linkedin.com/in/yuvaraja-d">LinkedIn</a></p>
         </div>
         <div class="card">
             <h2>Education</h2>
