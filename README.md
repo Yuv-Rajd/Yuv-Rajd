@@ -2,40 +2,7 @@
 <html>
 <head>
    
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-
-        .header {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 1rem;
-        }
-
-        .container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-around;
-            padding: 2rem;
-        }
-
-        .card {
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            padding: 1rem;
-            margin: 1rem;
-            max-width: 400px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-
-        .card h2 {
-            margin-top: 0;
-        }
-    </style>
+  
 </head>
 <body>
     <div class="header">
