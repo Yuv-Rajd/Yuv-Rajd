@@ -46,6 +46,8 @@
         </p>
     </div>
 
-<h1> new app<a href="https://64f9a17ea774160008863014--astonishing-griffin-23c618.netlify.app/">live</a></h1>
+<h1> news app <a href="https://64f9a17ea774160008863014--astonishing-griffin-23c618.netlify.app/">live</a></h1>
+<h1> Stack and Queue <a href="http://yuvarajd.pythonanywhere.com/">live</a></h1>
+<h1>Brain Tumor Detection <a href="http://yuvarajad.pythonanywhere.com/">live</a></h1>
 </body>
 </html>
